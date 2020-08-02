@@ -1,1 +1,6 @@
-using NodeJS i upload my cv in github 
+# my Resume
+
+### Screenshots
+
+<img src="pic1.png" width="500" height="300">
+
